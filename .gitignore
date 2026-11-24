@@ -1,0 +1,31 @@
+# Ambiente virtuale e cache Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Modelli AI pesanti
+*.pt
+*.onnx
+*.bin
+*.xml
+yolov8n_openvino_model/
+
+# Output video, audio, storyboard e cache locali
+Output_Gara*/
+_temp_work/
+*.mp4
+*.mkv
+*.wav
+*.jpg
+trascrizione_*_cache.json
+classifica_viralita.json
+PRONTI_PER_I_SOCIAL.txt
+
+# File di sistema
+.DS_Store
+Thumbs.db
+# Cartelle locali di modelli e collaudo
+raceclipper_models/
+RaceClipper_Collaudo/
+race_clipper_4080.py

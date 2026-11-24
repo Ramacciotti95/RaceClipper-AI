@@ -1,0 +1,13 @@
+RaceClipper AI
+Copyright (c) 2026 Nicholas Ramacciotti (GitHub: Ramacciotti95)
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3).
+Any redistribution, modification, or network/SaaS deployment must retain this notice,
+credit the original author, and disclose the complete corresponding source code under AGPLv3.
+
+Third-party components used at runtime:
+- Ultralytics YOLOv8 (AGPL-3.0)
+- Faster-Whisper (MIT)
+- Ollama / Qwen / MiniCPM-V (respective model licenses)
+- OpenVINO (Apache-2.0)
+- FFmpeg & yt-dlp (GPL/LGPL & Unlicense)

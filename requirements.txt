@@ -1,0 +1,6 @@
+faster-whisper
+ultralytics
+opencv-python
+numpy
+requests
+openvino
